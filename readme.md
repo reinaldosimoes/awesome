@@ -713,7 +713,7 @@
 - [Lucid Dreams](https://github.com/IAmCoder/awesome-lucid-dreams#readme) - A dream where one becomes aware they are dreaming.
 - [Neuroimaging](https://github.com/NPACore/awesome-neuroimaging#readme) - Software for analyzing brain data from living subjects.
 - [Transgender](https://github.com/cvyl/awesome-transgender#readme) - Someone whose gender identity differs from their assigned birth sex.
-- [Running](https://github.com/reinaldosimoes/awesome-running-tools#readme) - Recreational and competitive distance running.
+- [Running Tools](https://github.com/reinaldosimoes/awesome-running-tools#readme) - Training, performance tracking, route planning, race discovery, and communities for recreational and competitive distance running.
 
 ## Events
 
